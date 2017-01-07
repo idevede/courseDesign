@@ -1,0 +1,81 @@
+GET http://www.sdu.edu.cn/2010/xxjj.html HTTP/1.1
+Host: www.sdu.edu.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/
+Cookie: yunsuo_session_verify=72e7a68b1ca5535eade5ecb2dcb91eee
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET http://www.sdu.edu.cn/2010/images/style.css HTTP/1.1
+Host: www.sdu.edu.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/2010/xxjj.html
+Cookie: yunsuo_session_verify=72e7a68b1ca5535eade5ecb2dcb91eee
+Connection: keep-alive
+
+GET http://www.sdu.edu.cn/2010/images/second_top3.jpg HTTP/1.1
+Host: www.sdu.edu.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/2010/xxjj.html
+Cookie: yunsuo_session_verify=72e7a68b1ca5535eade5eGET cb2dcb91eee
+Connection: keep-alive
+
+http://www.sdu.edu.cn/2010/images/second_xxgk3.gif HTTP/1.1
+Host: www.sdu.edu.cn
+UserGET http://www.sdu.edu.cn/2010/images/sec-oAgent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/n4d9._t.gif HTTP/1.10
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/2010/xxjj.html
+Cookie:G Eyunsuo_session_verify=72e7a68b1ca5535eade5ecb2dcb91eee
+Connection: keep-alive
+
+T http://www.sGET http://www.sdu.edu.cn/2010/images/second_m.gif HTTGPd/u1..e1ET http://www.sdu.edu.cn/2010/idmu.acgne/s2/c0o1p0yr/imiagghest/2secon.gdi_fb .HgTiTf P/1HTT.P1/1.1
+Host: www.sdu.edu.cn
+U
+
+
+sHHHeoost: www.sdu.edsor-Agent: Mst: www.sdu.edu.cn
+Usetor: www.sdu.edu.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20zu.cn
+User-Agent: Mozilla/5.0 (Windows NT illa/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept1-Agent: Mozilla/5.0 (Windows NT 10.0; : */*
+Accept-Language:0.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Acce10 zh-CN,zh;q=0.8,en-US;q=0pt-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/20WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Langua0101 Fir.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/2010/images/style.css
+Cookie: efox/49.0
+Accept10/images/style.css
+Cooge: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzipyunsuo_session_verify=72, defe7a68latekie: b1ca5535eayunsude5e: */o_session_verify=72e7a68b1ca5535eade5ecb2dcb91eee
+Connection: keep-alive
+
+
+Refcb2dcerer: http://www.b91sdu.ed*u.cn/2010/images/style.css
+Cookie: yunsuo_session_verify=72e7a68b1ca5535eade5ecb2dcb91eee
+Connection: keep-alive
+
+
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.sdu.edu.cn/2010/images/style.css
+Cookie: yunsuo_session_verifyeee
+=72e7a68b1ca5535eade5ecb2dcb91eee
+Connection: keep-alive
+
+Connection: keep-alive
+
